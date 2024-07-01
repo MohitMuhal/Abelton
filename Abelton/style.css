@@ -1,0 +1,171 @@
+.row {
+    justify-content: center;
+
+  }
+
+  header {
+    background-image: url(header.avif);
+    width: 81vw;
+    height: 50vw;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .header-title {
+    font-size: 7vw;
+    color: #fd5948;
+  }
+
+  .img {
+    width: 95%;
+    margin: 20px 0;
+  }
+
+  p {
+    width: 65vw;
+    margin: 50px 0;
+  }
+
+  .yeimg {
+    display: flex;
+    background-color: #FBFFA7;
+    width: 55vw;
+    height: 48vw;
+    margin-left: 41vw;
+    align-items: center;
+  }
+
+  .photo-1 {
+    background-image: url(photo-1.jpg);
+    background-size: cover;
+    width: 36vw;
+    height: 36vw;
+    margin-left: -35vw;
+    margin-top: -0.5vw;
+  }
+
+  .photo-2 {
+    background-image: url(photo-2.jpg);
+    background-size: cover;
+    margin-left: 16vw;
+    width: 28vw;
+    height: 20vw;
+  }
+
+  .video {
+    background-image: url(poster-juanpe.avif);
+    background-size: cover;
+    width: 73vw;
+    height: 41vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .grimg {
+    display: flex;
+    background-color: #b6ffc0;
+    width: 55vw;
+    height: 65vw;
+    margin-right: 44vw;
+    align-items: center;
+  }
+
+  .photo-3 {
+    background-image: url(photo-3.jpg);
+    background-size: cover;
+    width: 32vw;
+    height: 25vw;
+    margin-left: 5vw;
+    margin-top: -27.5vw;
+    margin-right: 10vw;
+  }
+
+
+  .photo-4 {
+    background-image: url(photo-4.jpg);
+    background-size: cover;
+    width: 32vw;
+    height: 25vw;
+    margin-left: -42vw;
+    margin-top: 28.5vw;
+
+  }
+
+
+  .photo-5 {
+    background-image: url(photo-5.jpg);
+    background-size: cover;
+    height: 46vw;
+    width: 46vw;
+    margin-top: -56vw;
+    margin-left: 34vw;
+  }
+
+  .photo-6 {
+    background-image: url(poster-meet-the-makers.avif);
+    width: 81vw;
+    height: 44vw;
+    background-size: cover;
+  }
+
+  .puimg {
+    display: flex;
+    background-color: #d5b3ff;
+    width: 65vw;
+    height: 60vw;
+    align-items: center;
+  }
+
+  .photo-7 {
+    background-image: url(photo-6-a.jpg);
+    width: 32vw;
+    height: 25vw;
+    margin-left: -14vw;
+    background-size: cover;
+
+  }
+
+  .photo-8 {
+    background-image: url(photo-7.jpg);
+    height: 46vw;
+    width: 46vw;
+    margin-top: -51vw;
+    margin-left: 51vw;
+    background-size: cover;
+  }
+
+  .photo-9 {
+    background-image: url(photo-8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 40vw;
+    height: 40vw;
+  }
+
+  .viimg {
+    background-color: #b1c5ff;
+    width: 40vw;
+    height: 40vw;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .footer{
+    font-weight: 300;
+    font-size: 15px;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
+  .bold{
+    font-weight: 700;
+    font-size: 30px;
+  }
